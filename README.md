@@ -150,7 +150,7 @@ weighted avg     0.938     0.942     0.940       ...
 
 **ขั้นตอนที่ 1 — โคลน Repository**
 ```bash
-git clone https://github.com/<your-username>/thai-digit-recognition.git
+git clone https://github.com/haru-mishi/cs462_thai_digit_project.git
 cd thai-digit-recognition
 ```
 
